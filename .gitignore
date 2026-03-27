@@ -1,0 +1,11 @@
+# Environments
+.venv/
+env/
+
+# Datasets
+dataset/
+test_batch/
+
+# Python cache
+__pycache__/
+*.pyc
